@@ -1,0 +1,8 @@
+dask
+louvain
+leidenalg
+scikit-learn
+Cython
+scanpy
+pandas
+numpy
